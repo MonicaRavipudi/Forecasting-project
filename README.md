@@ -103,5 +103,5 @@ The scenario analysis tests the impact of changes in exogenous variables:
 - **Performance**: Prophet models may take longer due to MCMC sampling
 
 
-**Last Updated**: July 2024
+**Last Updated**: July 2025
 **Version**: 1.0.0 
